@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/imvaishu/dunston#readme",
   "dependencies": {
+    "@craftybones/assembly_simulator": "^0.2.1",
     "express": "^4.17.1"
   }
 }
