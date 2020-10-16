@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/imvaishu/dunston/issues"
   },
-  "homepage": "https://github.com/imvaishu/dunston#readme"
+  "homepage": "https://github.com/imvaishu/dunston#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
